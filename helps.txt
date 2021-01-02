@@ -1,0 +1,10 @@
+The prefix is : +
+Following are the possible commands for this bot :
+<command-detail> : keyword(alias)
+example : +help or +h
+Help           : help(h)
+Rules          : rules(r)
+Kick Members   : kick(k)
+Ban Members    : ban(b)
+Clear Messages : clear(c)
+
